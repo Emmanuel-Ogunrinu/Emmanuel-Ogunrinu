@@ -30,9 +30,10 @@ Here are some ideas to get you started:
 ---
 
 ### 🎯 Student Journey
-📍 **Currently:** 4th Year Student at **San Francisco State University**  
-🎓 **Major:** Computer Science  
-📅 **Expected Graduation:** 12 2025
+- 📍 4th Year CS Student @ San Francisco State University
+- 📅 Graduating December 2025
+- 🏆 Dean's List recipient
+
 ---
 
 ### 🛠️ Tech Stack & Skills
@@ -49,7 +50,6 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 **Tools & Technologies:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)

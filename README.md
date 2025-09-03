@@ -60,12 +60,16 @@ Here are some ideas to get you started:
 ### 📈 GitHub Analytics
 
 <div align ="center">
-  
+
+<!--
 [![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmanuel-Ogunrinu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Emmanuel-Ogunrinu)
+-->
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Ogunrinu&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Emmanuel-Ogunrinu)
 
+<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel-Ogunrinu&theme=tokyonight&hide_border=true)](https://github.com/Emmanuel-Ogunrinu)
+-->
 
 
 </div>
